@@ -1,0 +1,32 @@
+html{
+        font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    height: 35px;
+    width: 50px;
+}
+nav{
+    background-color: chocolate;
+}
+.logo_image{
+    height: 20%;
+    width: 30%;
+}
+.team{
+     border-radius: 50%;
+    width: 200px;
+    height: 200px;  
+}
+center{
+    background-color: rgb(203, 58, 58);
+}
+.nav_bar{
+    margin-left: 43%;
+}
